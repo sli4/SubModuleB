@@ -1,0 +1,3 @@
+[submodule "fe/SubmoduleA"]
+	path = fe/SubmoduleA
+	url = https://github.com/sli4/SubmoduleA
